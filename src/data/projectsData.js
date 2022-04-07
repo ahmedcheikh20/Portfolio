@@ -11,11 +11,11 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'E-Commerce App',
-        projectDesc: 'A Simple E-commerce application',
-        tags: ['Angular', 'Express.js', 'Tailwind'],
-        code: 'https://github.com/LegacyTeam1/Legacy',
-        demo: 'https://github.com/LegacyTeam1/Legacy',
+        projectName: 'CAR CLONE',
+        projectDesc: 'DESIGN TRAINING',
+        tags: ['React.js', 'Redux', 'Styled component'],
+        code: 'https://github.com/ahmedcheikh20/car',
+        demo: 'https://cars-clone.herokuapp.com/?fbclid=IwAR1lQAFRB9yLd6RPtDX0DBfZr70k4QSRF38iDxnbNP9sYKFxV3-7C36AAVM',
         image: five
     },   {
         id: 2,
