@@ -16,24 +16,24 @@ export const projectsData = [
         tags: ['React.js', 'Redux', 'Styled component'],
         code: 'https://github.com/ahmedcheikh20/car',
         demo: 'https://cars-clone.herokuapp.com/?fbclid=IwAR1lQAFRB9yLd6RPtDX0DBfZr70k4QSRF38iDxnbNP9sYKFxV3-7C36AAVM',
-        image: five
+        image: eight
     },   {
         id: 2,
-        projectName: 'Car-x',
-        projectDesc: "it's an app that facilite the costumers and car wash services to gain time",
-        tags: ['react native', 'nextjs','nestjs','tailwind','postgres'],
-        code: 'https://github.com/gofar-carX',
-        demo: 'https://github.com/gofar-carX',
-        image: eight
+        projectName: 'Cloud-Intro',
+        projectDesc: "it's an app that give some useful resources to get started in the cloud",
+        tags: ['react.js', 'css'],
+        code: 'https://github.com/ahmedcheikh20/AWS-intro',
+        demo: 'https://cloud-intro.netlify.app/#possibility',
+        image: two
     },
     {
         id: 3,
-        projectName: 'school-plateform',
-        projectDesc: 'plateform for school to create an online environment between students, teachers and also the admin',
-        tags: ['reactjs', 'expresjs', 'Material Ui','mongodb'],
-        code: 'https://github.com/School-platforme/school-field',
-        demo: 'https://github.com/School-platforme/school-field',
-        image: three
+        projectName: 'Crypto-Checker',
+        projectDesc: 'plateform to follow crypto monney en real time',
+        tags: ['reactjs', 'css', "Crypto-API", "Ajax"],
+        code: 'https://github.com/ahmedcheikh20/crypto-app',
+        demo: 'https://cryptoochecker.netlify.app/',
+        image: seven
     },
     {
         id: 4,
@@ -43,25 +43,25 @@ export const projectsData = [
         code: 'https://github.com/e-Shop-tn/Shop-Online',
         demo: 'https://github.com/e-Shop-tn/Shop-Online',
         image: five
-    }
-    // {
-    //     id: 5,
-    //     projectName: 'E-Commerce App',
-    //     projectDesc: 'A Simple E-commerce application',
-    //     tags: ['React Native', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: five
-    // },
-    // {
-    //     id: 6,
-    //     projectName: 'Uber Lite',
-    //     projectDesc: 'Uber clone',
-    //     tags: ['Flutter'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: six
-    // },
+    },
+    {
+        id: 5,
+        projectName: 'Car-x',
+        projectDesc: "it's an app that facilite the costumers and car wash services to gain time",
+        tags: ['react native', 'nextjs','nestjs','tailwind','postgres'],
+        code: 'https://github.com/gofar-carX',
+        demo: 'https://github.com/gofar-carX',
+        image: eight
+    },
+    {
+        id: 6,
+        projectName: 'school-plateform',
+        projectDesc: 'plateform for school to create an online environment between students, teachers and also the admin',
+        tags: ['reactjs', 'expresjs', 'Material Ui','mongodb'],
+        code: 'https://github.com/School-platforme/school-field',
+        demo: 'https://github.com/School-platforme/school-field',
+        image: three
+    },
     // {
     //     id: 7,
     //     projectName: 'Stock Market App',
