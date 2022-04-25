@@ -2,7 +2,7 @@ export const educationData = [
     {
         id: 1,
         institution: 'ESSECT',
-        course: 'Licence money finance and banking',
+        course: 'IT license applied to management',
         startYear: '2011',
         endYear: '2015'
     },
